@@ -1,7 +1,7 @@
 - 流媒体文档
     - 工具库
-        - ffmpeg
-        - yamdi
+        - ffmpeg, http://ffmpeg.org/
+        - yamdi, http://yamdi.sourceforge.net/
     - 编解码
         - 视频
             - h264
